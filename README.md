@@ -1,2 +1,2 @@
 # CursoAngular
-Curso de Angular en la DGC
+Curso de Angular en la SGESI
